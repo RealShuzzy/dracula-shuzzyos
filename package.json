@@ -3,6 +3,18 @@
   "displayName": "Dracula ShuzzyOS",
   "description": "Dracula Theme with a few personal changes",
   "version": "1.0.0",
+  "publisher": "Shuzzy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealShuzzy/dracula-shuzzyos"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "shuzzy",
+    "shuzzyos"
+  ],
   "engines": {
     "vscode": "^1.103.0"
   },
