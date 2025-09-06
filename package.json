@@ -1,0 +1,21 @@
+{
+  "name": "dracula-shuzzyos",
+  "displayName": "Dracula ShuzzyOS",
+  "description": "Dracula Theme with a few personal changes",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula ShuzzyOS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula ShuzzyOS-color-theme.json"
+      }
+    ]
+  }
+}
