@@ -4,6 +4,12 @@ All notable changes to the "dracula-shuzzyos" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.1] - 2025-09-07
+### Added
+- Changelog
+### Removed
+- Setup files
+
 ## [1.2.0] - 2025-09-07
 ### Fixed
 - Corrected JSON syntax errors.
